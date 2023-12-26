@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>level58</class>
- <widget class="QWidget" name="level58">
+ <class>level28</class>
+ <widget class="QWidget" name="level28">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -28,36 +28,23 @@
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>190</x>
+     <x>210</x>
      <y>20</y>
-     <width>691</width>
-     <height>421</height>
+     <width>541</width>
+     <height>411</height>
     </rect>
    </property>
    <property name="text">
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>questions/raven_e10.jpg</pixmap>
+    <pixmap>questions/raven_c4.jpg</pixmap>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_38">
+  <widget class="QPushButton" name="pushButton_22">
    <property name="geometry">
     <rect>
-     <x>520</x>
-     <y>260</y>
-     <width>21</width>
-     <height>21</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>4</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="pushButton_39">
-   <property name="geometry">
-    <rect>
-     <x>230</x>
+     <x>250</x>
      <y>260</y>
      <width>21</width>
      <height>21</height>
@@ -67,10 +54,10 @@
     <string>1</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_40">
+  <widget class="QPushButton" name="pushButton_23">
    <property name="geometry">
     <rect>
-     <x>320</x>
+     <x>340</x>
      <y>260</y>
      <width>21</width>
      <height>21</height>
@@ -80,23 +67,23 @@
     <string>2</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_41">
+  <widget class="QPushButton" name="pushButton_24">
    <property name="geometry">
     <rect>
-     <x>320</x>
-     <y>350</y>
+     <x>250</x>
+     <y>340</y>
      <width>21</width>
      <height>21</height>
     </rect>
    </property>
    <property name="text">
-    <string>6</string>
+    <string>5</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_42">
+  <widget class="QPushButton" name="pushButton_25">
    <property name="geometry">
     <rect>
-     <x>420</x>
+     <x>450</x>
      <y>260</y>
      <width>21</width>
      <height>21</height>
@@ -106,24 +93,37 @@
     <string>3</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_43">
+  <widget class="QPushButton" name="pushButton_26">
    <property name="geometry">
     <rect>
-     <x>520</x>
-     <y>350</y>
+     <x>540</x>
+     <y>260</y>
      <width>21</width>
      <height>21</height>
     </rect>
    </property>
    <property name="text">
-    <string>8</string>
+    <string>4</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_44">
+  <widget class="QPushButton" name="pushButton_27">
    <property name="geometry">
     <rect>
-     <x>420</x>
-     <y>350</y>
+     <x>340</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>6</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_28">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>340</y>
      <width>21</width>
      <height>21</height>
     </rect>
@@ -132,24 +132,24 @@
     <string>7</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_45">
+  <widget class="QPushButton" name="pushButton_29">
    <property name="geometry">
     <rect>
-     <x>230</x>
-     <y>350</y>
+     <x>540</x>
+     <y>340</y>
      <width>21</width>
      <height>21</height>
     </rect>
    </property>
    <property name="text">
-    <string>5</string>
+    <string>8</string>
    </property>
   </widget>
   <widget class="QCommandLinkButton" name="commandLinkButton">
    <property name="geometry">
     <rect>
-     <x>550</x>
-     <y>200</y>
+     <x>580</x>
+     <y>220</y>
      <width>183</width>
      <height>41</height>
     </rect>

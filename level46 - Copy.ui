@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>level58</class>
- <widget class="QWidget" name="level58">
+ <class>level46</class>
+ <widget class="QWidget" name="level46">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -28,49 +28,36 @@
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>190</x>
-     <y>20</y>
-     <width>691</width>
-     <height>421</height>
+     <x>200</x>
+     <y>30</y>
+     <width>631</width>
+     <height>391</height>
     </rect>
    </property>
    <property name="text">
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>questions/raven_e10.jpg</pixmap>
+    <pixmap>questions/raven_d10.jpg</pixmap>
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton_38">
    <property name="geometry">
     <rect>
-     <x>520</x>
-     <y>260</y>
+     <x>530</x>
+     <y>340</y>
      <width>21</width>
      <height>21</height>
     </rect>
    </property>
    <property name="text">
-    <string>4</string>
+    <string>8</string>
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton_39">
    <property name="geometry">
     <rect>
-     <x>230</x>
-     <y>260</y>
-     <width>21</width>
-     <height>21</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>1</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="pushButton_40">
-   <property name="geometry">
-    <rect>
-     <x>320</x>
+     <x>330</x>
      <y>260</y>
      <width>21</width>
      <height>21</height>
@@ -80,23 +67,10 @@
     <string>2</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_41">
+  <widget class="QPushButton" name="pushButton_40">
    <property name="geometry">
     <rect>
-     <x>320</x>
-     <y>350</y>
-     <width>21</width>
-     <height>21</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>6</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="pushButton_42">
-   <property name="geometry">
-    <rect>
-     <x>420</x>
+     <x>430</x>
      <y>260</y>
      <width>21</width>
      <height>21</height>
@@ -106,24 +80,11 @@
     <string>3</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_43">
+  <widget class="QPushButton" name="pushButton_41">
    <property name="geometry">
     <rect>
-     <x>520</x>
-     <y>350</y>
-     <width>21</width>
-     <height>21</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>8</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="pushButton_44">
-   <property name="geometry">
-    <rect>
-     <x>420</x>
-     <y>350</y>
+     <x>430</x>
+     <y>340</y>
      <width>21</width>
      <height>21</height>
     </rect>
@@ -132,11 +93,50 @@
     <string>7</string>
    </property>
   </widget>
+  <widget class="QPushButton" name="pushButton_42">
+   <property name="geometry">
+    <rect>
+     <x>530</x>
+     <y>260</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>4</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_43">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>340</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>6</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_44">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>260</y>
+     <width>21</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>1</string>
+   </property>
+  </widget>
   <widget class="QPushButton" name="pushButton_45">
    <property name="geometry">
     <rect>
-     <x>230</x>
-     <y>350</y>
+     <x>240</x>
+     <y>340</y>
      <width>21</width>
      <height>21</height>
     </rect>
@@ -148,8 +148,8 @@
   <widget class="QCommandLinkButton" name="commandLinkButton">
    <property name="geometry">
     <rect>
-     <x>550</x>
-     <y>200</y>
+     <x>560</x>
+     <y>210</y>
      <width>183</width>
      <height>41</height>
     </rect>
