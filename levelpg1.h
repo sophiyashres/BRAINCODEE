@@ -21,6 +21,8 @@ private slots:
 
     void on_level1_linkActivated(const QString &link);
 
+    void on_pushButton_clicked();
+
 private:
     Ui::levelpg1 *ui;
     levelpg2 *Levelpg2;

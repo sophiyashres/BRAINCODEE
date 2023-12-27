@@ -27,3 +27,9 @@ void levelpg1::on_level1_linkActivated(const QString &link)
     Level1 ->show();
 }
 
+
+void levelpg1::on_pushButton_clicked()
+{
+
+}
+
